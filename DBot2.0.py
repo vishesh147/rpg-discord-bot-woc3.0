@@ -246,4 +246,4 @@ async def play(ctx):
         os.remove("playerdata.csv")
         os.rename('new.csv', 'playerdata.csv')
 
-client.run("Nzk4NTAzNDc1ODM4NDUxNzM0.X_1-UA.YfRa1QnsqTrh3Cv1viRqPqmlmKQ")
+client.run("")
