@@ -31,4 +31,5 @@ Command prefix = #
 2. MySQL ID/Password*
 
 DRIVE Link :
-https://drive.google.com/file/d/1UmCgH0-t8MQN0TwDi2TSYVnSWJDakLxc/view?usp=sharing
+(Without Duel) : https://drive.google.com/file/d/1UmCgH0-t8MQN0TwDi2TSYVnSWJDakLxc/view?usp=sharing
+(With Duel Mode) : https://drive.google.com/file/d/1_dKKbLwuD34vzW02YmosjPics3YAhSyQ/view?usp=sharing
