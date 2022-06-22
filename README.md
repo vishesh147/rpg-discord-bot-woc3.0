@@ -1,4 +1,3 @@
-# woc3.0-rpg-discord-bot-visheshpatel
 RPG Discord Bot - WOC3.0
 
 Features :
